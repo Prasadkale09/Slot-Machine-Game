@@ -1,4 +1,6 @@
 # Slot-Machine-Game
+![Screenshot 2023-07-17 080830](https://github.com/Prasadkale09/Slot-Machine-Game/assets/98744936/d8d7ffb4-237c-427e-9f27-4036c88bc1d9)
+
 I have create simple slot machine game with the help of HTML, CSS, React-Js.
 
 # Getting Started with Create React App
@@ -72,4 +74,3 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 # Slot-Machine-Game
-![Screenshot 2023-07-17 080830](https://github.com/Prasadkale09/Slot-Machine-Game/assets/98744936/d8d7ffb4-237c-427e-9f27-4036c88bc1d9)
